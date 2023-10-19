@@ -1,0 +1,5 @@
+1001,Consultation,150.00
+1002,Software Maintenance,299.99
+1003,Web Hosting,49.99
+1004,Training,199.00
+1005,Repair Service,99.95

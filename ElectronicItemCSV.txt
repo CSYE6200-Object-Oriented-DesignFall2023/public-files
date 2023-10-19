@@ -1,0 +1,5 @@
+2351,Smartphone,599.99
+7864,Laptop,999.99
+4512,Headphones,99.99
+8976,Tablet,349.99
+3690,Smartwatch,199.99

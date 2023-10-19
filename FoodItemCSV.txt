@@ -1,0 +1,5 @@
+2001,Apple,0.99
+2002,Chicken Sandwich,4.99
+2003,Pizza,8.49
+2004,Salad,3.99
+2005,Spaghetti,6.99
